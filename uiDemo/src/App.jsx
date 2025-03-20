@@ -26,6 +26,7 @@ function App() {
         <CardContent>
           This is my card
           <p>Hi</p>
+          <p>Hello</p>
         </CardContent>
       </card>
       </Box>
