@@ -25,6 +25,7 @@ function App() {
       <card variant='outlined'>
         <CardContent>
           This is my card
+          <p>Hi</p>
         </CardContent>
       </card>
       </Box>

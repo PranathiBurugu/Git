@@ -1,0 +1,16 @@
+.bookLine
+{
+  display: grid;
+  grid-template-columns: repeat(5,auto);
+  gap:20px;
+}
+.book
+{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  box-shadow: brown;
+}
+
